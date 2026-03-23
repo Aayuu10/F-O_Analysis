@@ -1,10 +1,12 @@
 
 📊 F&O Data Analytics System (Qode Assignment)
+
 📌 Overview
 This project implements a scalable relational database system to store and analyze high-volume Futures & Options (F&O) data using PostgreSQL. It demonstrates end-to-end data engineering capabilities including data ingestion, normalization (3NF), advanced SQL analytics, and performance optimization.
 The system is designed to support multi-exchange analysis (NSE, BSE, MCX) and handle large-scale time-series trading data efficiently.
 
 🏗️ Repository Structure
+
 /Qode_Assignment
  ├── Schema.sql                    # Table creation (DDL)
  ├── Indexes and partition.sql     # Indexing & partitioning strategies
